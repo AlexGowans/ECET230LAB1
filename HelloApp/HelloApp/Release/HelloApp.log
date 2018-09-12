@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  HelloApp.cpp
+  Generating code
+  10 of 10 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HelloApp.vcxproj -> F:\School\Y2S1\ECET230\Lab1\HelloApp\Release\HelloApp.exe
